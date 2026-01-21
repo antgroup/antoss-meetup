@@ -1,16 +1,29 @@
+# 蚂蚁技术沙龙 PPT 归档
 
-# 蚂蚁开源 x SGLang meetup PPT 归档
+蚂蚁开源技术沙龙是由蚂蚁开源主办的系列开源技术分享与交流活动。在这里，蚂蚁开源携手他的伙伴们，与天南海北热爱开源的朋友相聚，畅谈开源技术与社区文化，为开发者、开源爱好者及社区伙伴们构筑一个开放、共享、协作的平台。
 
-![photos](./photos.webp)
+活动将聚焦开源技术生态的最新发展与实践，涵盖云原生、大数据、人工智能、大前端等核心领域，集结业内资深技术专家、开源社区核心贡献者和一线开发者，深挖技术创新与应用落地的前沿话题。通过技术分享、案例解析和深度互动，汇聚集体智慧，碰撞灵感火花，推动开源技术的普及与发展，助力社区的繁荣与成长。
 
-2026 年 1 月 17 日，蚂蚁开源与 SGLang 社区联合举办了 2026 年的首场线下 Meetup，让屏幕前的贡献者走到台前，让幕后优化者分享实战心法。不仅有 SGLang 核心成员分享社区的最新进展与 Roadmap，还有多位来自蚂蚁和社区的贡献者们带来围绕 SGLang 的相关技术探索与实践。
+本仓库收录了蚂蚁开源技术沙龙系列活动中分享的 PPT，方便大家回顾和学习。如果您对开源技术感兴趣，欢迎加入我们的社区，一起交流与成长！
 
-这个仓库收录了本次 Meetup 中[所有分享的 PPT](./slides)，方便大家回顾和学习。如果您对 SGLang 感兴趣，欢迎加入我们的社区，一起交流与成长！
+如果您希望了解更多关于蚂蚁开源技术沙龙的信息，欢迎访问蚂蚁开源官网或关注我们的公众号获取最新动态与活动资讯。
+
+历届沙龙 PPT 归档：
+
+- 20250426 蚂蚁开源技术沙龙 × 探索 Cloud Native AI 的无限可能
+- 20250524 蚂蚁开源技术沙龙 × 大模型开发生态全景与趋势
+- 20250719 蚂蚁开源技术沙龙 × AI 时代下的基础软件
+- 20250830 蚂蚁开源技术沙龙 × Oceanbase 城市行深圳站
+- 20250920 蚂蚁开源技术沙龙 × Kata 专场
+- 20251220 [Ray Forward Meetup](https://github.com/ray-project/Ray-Forward)
+- 20260117 [蚂蚁开源技术沙龙 × SGLang 专场](./sglang-meetup)
+
 
 相关链接：
 
-- SGLang 中文网: [https://sglang.org/zh/](https://sglang.org/zh/)
-- SGLang GitHub 仓库: [https://github.com/sgl-project](https://github.com/sgl-project)
-- 蚂蚁开源官网: [https://opensource.antgroup.com](https://opensource.antgroup.com)
-- 蚂蚁开源公众号：微信搜索“蚂蚁开源”或扫描下方二维码关注<br />
+- 蚂蚁开源官网: [https://opensource.antgroup.com/](https://opensource.antgroup.com/)
+- 蚂蚁开源 GitHub 组织: [https://github.com/antgroup](https://github.com/antgroup)
+- 蚂蚁开源公众号二维码: <br />
   ![ant-opensource-qrcode](./ant-opensource-qrcode.jpg)
+
+如果您有任何建议或想法，欢迎通过 GitHub Issues 或者邮件 `ospo@antgroup.com` 与我们联系。期待与您一同推动开源技术的发展与创新！
