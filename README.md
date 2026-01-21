@@ -12,5 +12,5 @@
 - SGLang 中文网: [https://sglang.org/zh/](https://sglang.org/zh/)
 - SGLang GitHub 仓库: [https://github.com/sgl-project](https://github.com/sgl-project)
 - 蚂蚁开源官网: [https://opensource.antgroup.com](https://opensource.antgroup.com)
-- 蚂蚁开源公众号：微信搜索“蚂蚁开源”或扫描下方二维码关注
+- 蚂蚁开源公众号：微信搜索“蚂蚁开源”或扫描下方二维码关注<br />
   ![ant-opensource-qrcode](./ant-opensource-qrcode.png)
