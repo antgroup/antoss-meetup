@@ -10,6 +10,7 @@
 
 历届沙龙演讲材料归档：
 
+- `20260606` [蚂蚁开源技术沙龙 × CLSF（China Linux System Forum）：Agentic 时代的系统技术](./System-for-AgenticAI-Meetup)
 - `20260523` [蚂蚁开源技术沙龙 × 开源 Agentic AI 的技术底座](./Agentic-RL-Meetup)
 - `20260117` [蚂蚁开源技术沙龙 × SGLang 专场](./sglang-meetup)
 - `20251220` [Ray Forward Meetup](https://github.com/ray-project/Ray-Forward)
